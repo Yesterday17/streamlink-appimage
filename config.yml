@@ -3,8 +3,8 @@ app:
   rel: 1
   entry: streamlink
 git:
-  repo: https://github.com/streamlink/streamlink.git
-  ref: 6.2.1
+  repo: https://github.com/arunsunner/streamlink-decryption-support
+  ref: master
 builds:
   aarch64:
     image: ghcr.io/streamlink/appimage-buildenv-aarch64@sha256:cf4e35c809187bc6bb334920503033e8a9b41296eeac18a5184fa22f051c5ffc

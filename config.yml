@@ -3,7 +3,7 @@ app:
   rel: 1
   entry: streamlink
 git:
-  repo: https://github.com/arunsunner/streamlink-decryption-support
+  repo: https://github.com/Yesterday17/streamlink-decryption-support
   ref: master
 builds:
   aarch64:
